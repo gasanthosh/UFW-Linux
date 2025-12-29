@@ -1,4 +1,6 @@
-# Configuration, Implementation and Testing of UFW Firewall in Linux
+![author](https://img.shields.io/badge/author-gasanthosh-blue?logo=github)
+![licence](https://img.shields.io/badge/license-mit-brightgreen?style=for-the-badge)
+# Configuration, Implementation and Testing of UFW Firewall in Linux.
 ---
 ## Introduction 
 
