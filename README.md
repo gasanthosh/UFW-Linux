@@ -1,9 +1,3 @@
-
-## Project: UFW Configuration Lab
-## Author: gasanthosh
-## Repository: https://github.com/gasanthosh/UFW-Linux
-
-
 # Configuration, Implementation and Testing of UFW Firewall in Linux
 ---
 ## Introduction 
